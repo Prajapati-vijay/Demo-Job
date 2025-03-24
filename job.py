@@ -1,7 +1,9 @@
 print("this is test by Vijay")
 print("Test in docker")
 from datetime import datetime
+import time
 
+time.sleep(20)
 # Get the current time
 current_time = datetime.now()
 
