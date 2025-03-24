@@ -3,7 +3,7 @@ print("Test in docker")
 from datetime import datetime
 import time
 
-time.sleep(20)
+time.sleep(60)
 # Get the current time
 current_time = datetime.now()
 
