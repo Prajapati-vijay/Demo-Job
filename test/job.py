@@ -1,4 +1,4 @@
-print("this is test by Vijay")
+print("this is test by Vijay in test folder")
 print("Test in docker")
 from datetime import datetime
 import time
@@ -10,7 +10,3 @@ current_time = datetime.now()
 
 # Print the current time
 print("Current Time:", current_time)   
-
-
-
-
