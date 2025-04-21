@@ -7,6 +7,7 @@ print("Starting job")
 import sys
 
 # Print the arguments passed
+print("Agrs are : ----")
 print(sys.arg[0])
 print(sys.arg[1])
 print(sys.arg[2])
