@@ -8,9 +8,9 @@ import sys
 
 # Print the arguments passed
 print("Agrs are : ----")
-print(sys.arg[0])
-print(sys.arg[1])
-print(sys.arg[2])
+print(sys.argv[0])
+print(sys.argv[1])
+print(sys.argv[2])
 time.sleep(160)
 # Get the current time
 current_time = datetime.now()
