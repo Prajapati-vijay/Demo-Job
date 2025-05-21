@@ -1,0 +1,6 @@
+//awsus-fsrv-02.vaneck.local/Research/Research/QSG/Team/Vijay/test2
+/app/test2
+//awsus-fsrv-02.vaneck.local/Research/Research/QSG/Team/Vijay/testing
+/app/test1
+//awsus-fsrv-02.vaneck.local/Research/Research/QSG/Team/Vijay/test
+/app/test
