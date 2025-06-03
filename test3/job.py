@@ -3,7 +3,7 @@ print("Test in docker")
 from datetime import datetime
 import time
 
-print("Starting job with test 2")
+print("Starting job with test 3")
 import sys
 
 # Print the arguments passed
