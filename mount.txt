@@ -1,4 +1,4 @@
-//10.70.34.10/Research/Research/QSG/Team/Vijay/test2
+//awsus-fsrv-02.vaneck.local/Research/QSG/Team/Vijay/test2
 /app/test2
-//10.70.34.10/Research/Research/QSG/Team/Vijay/testing
+//awsus-fsrv-02.vaneck.local/Research/Research/QSG/Team/Vijay/testing
 /app/test1
