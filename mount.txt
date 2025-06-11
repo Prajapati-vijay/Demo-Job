@@ -1,6 +1,6 @@
 //10.70.34.10/Research/Research/QSG/Team/Vijay/test2
-/app/test2
+/app/testing1
 //10.70.34.10/Research/Research/QSG/Team/Vijay/testing
-/app/test1
+/app/testing2
 //10.70.34.10/Research/Research/QSG/Team/Vijay/test
-/app/test
+/app/testing3
