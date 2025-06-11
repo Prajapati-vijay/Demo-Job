@@ -2,5 +2,3 @@
 /app/test2
 //10.70.34.10/Research/Research/QSG/Team/Vijay/testing
 /app/test1
-//10.70.34.10/Research/Research/QSG/Team/Vijay/test
-/app/test
