@@ -1,12 +1,9 @@
-print("this is test by Vijay in test3 folder")
-print("Test in docker")
 from datetime import datetime
 import time
-
-print("Starting job with test 3")
 import sys
 
 # Print the arguments passed
+print("✅ Starting job with test 3 subfolder")
 print("Agrs are : ----")
 print(sys.argv[1])
 print(sys.argv[2])
@@ -16,4 +13,4 @@ time.sleep(80)
 current_time = datetime.now()
 
 # Print the current time
-print("Current Time:", current_time)   
+print(" Job successfully ended and Current Server Time:", current_time)   
