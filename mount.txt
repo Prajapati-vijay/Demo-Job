@@ -1,4 +1,4 @@
-//10.70.34/Research/Research/QSG/Team/Vijay/test2
+//10.70./Research/Research/QSG/Team/Vijay/test2
 /app/testing1
 //10.70.34/Research/Research/QSG/Team/Vijay/testing
 /app/testing2
