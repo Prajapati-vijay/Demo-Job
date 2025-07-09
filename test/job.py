@@ -3,7 +3,7 @@ import os
 # Configuration
 server = os.getenv("DBHOST")         # e.g., 'localhost' or '192.168.1.10'
 database = 'VEDW'     # e.g., 'MyDB'
-username = os.getlogin("USER")
+username = os.getenv("USER")
 password = os.getenv("PASS")
 driver = '{ODBC Driver 17 for SQL Server}'  # Ensure this is installed
 
